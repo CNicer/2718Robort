@@ -1,0 +1,48 @@
+WBWWWBB0BBBB000000080088888Z888Z8ZZZ8ZZZ8ZZZZZZaZaZZZZZZZaZZZ2aaaaa2a2a2a2a2a2a2aaaaZaZaZaZaZaZaZaZa888Z8Z8Z8ZZZ8Z8Z8808080000B0B0BBBBBBWBWB
+W00000008888Z8ZZZZZZZZaZaZ2a2a2a22222222S2S2S2SSSSSSXSXSSSXSXSXSXSXXXSXSXSXSXXXXXSXSSSSSSSXSS2S2S2SS22222a22aa2aaaaa2aaZaZZZZZZZZ8Z880800008
+W0WBB0B0B00808888Z8Z8Z8ZZZZZZZZZZZZaZZZaaaaaaaa2a2a2a2a2a2a2aaa222222S2S2S22a22222a2a2aaaaaaaaaaZZZaZaZaZaZaZZZZZZZZ8ZZZ8Z888808080000B0BBB0
+B0BB0B000088808088ZZZ8ZZZZZZaZaZaZaZaZaaaaaa2a2a2aaaaa2a2a2a2222S2S2SSXSXSSSS2S2S222222a2a2aaa2aaa2aaZaaaaaZaZaZZZZZZZZZZ8Z8Z880888080000BB0
+B8B0B000088888888ZZZZZZZZaZaaaaaa2aaZaZ2a2a2a2222S222S2S2S2S2SSSSXSXXXXXSXSX2SSS2S2S2S2S2S222222a2a2aaaaZaaaZaaaZaZZZZZZZZZZ8Z8Z88080000B0B8
+B8000080888888Z8ZZZZZZaZaZaaaZaZ2aaa2a2a222222S2S2S2S2SSSSXSXSSSXXXXXX7XXXXXXSXSXSSSSSSSSSSSS2S2222a2a2a2a2aaZaZaaaZaZaZZZZZZ8ZZZ8Z080808000
+B8000808888Z8Z8ZZZZZZaa2aaZaaaa2a2a222a2a22S222S2SSXSSSSSXSXXXXXSXXXX7X7X7XXXXXXSXSXSSSSSSSS2S2S222S22a2a2a2aaaaaaZaZaZaZaZZZZZZ8Z8Z888800B8
+08008088Z8Z8ZZZZZZaZaaaZaaaa2a2a2222S2S2S2S2SSSSS2XSSSXSXSXSXXXXXXXX77r77X7XXXXXXSXSXXXSXSSSSSSSS2S2S2222222222a2aaaaaaZaZZZaZaZZZZ888808008
+BZ08088Z8ZZZZaZZZaaaaaa2a2a2a2222S2S2SSSSSSSSXSXSXSXXXXXX7XXX7XXX7X77r777777XXXXXXXXXXXXXXXXSXSSSSSS2S2S2S22a22222aaZaZaaaaaZaZaZZZZ88888808
+0808888ZZZZZZZZaaa2a2a2a22S2222222SSSSXSXSXSXSXSXX7XXXXXXX7X777X7X77r7r77777777X7X7XXXXXXXXXXXXXXSXSSSSSS2S2S222222a2aaa2Z2ZaZaZZZZZZ8Z88888
+0Z08888ZZZZaZaZaa2a222a22S2S2S2S2SSXSXSXSXSXXXXXXXX7XXX7X7777r777r7r7rrr7r7r7777X7X777X7X7XXXXXXXXXXSXSXSSSSSS2S2S2222a2a2aaaaZaZaZZZZ8Z888Z
+0Z80Z8ZZZZaZaaaa2a2a2222S2S2SSXSXSXSXXXSXXXXXX7X7X7X7Xr7r7rrrrrrrrrr;r;;;rrrr7r7r777r77X7X7X7XXXXXXXXXXSXSXSX2S2SSS22a222a2a2aaZaZaZZZZZZ88Z
+0a8ZZZZZZaZaZ2a22222222S2S2SSSSXSXSXXXXXXXXXXXX777777rrrrrrrr;r;r;r;;;;;r;rrr;rrrrrrrr7r7777X7X7XXXXXXXXSXXXSSSS2S2S2S222222a2ZaaaZaZZ8Z8Z0Z
+8ZZ8ZZZZZZaa2a2222S222SSSSXSXXXXXXXXXXXX7X7X77r777r7rrrr;r;r;;;;;;;;i;i;;;;;;;;r;r;r;r;r;rr7r77X7X7XXXXXXXXSXSXSXSSSSSS2S2S22a2a2ZaaaZZZZZZZ
+0a8ZZZZaZ2Z2a2a222SS2SSXSXSXXXXXXXX7X7X77r777r7rrrr;r;;;;;;i;i;iiiiii:i:ii;i;i;;;;;;;;;;r;rr7r7r777777X7XXXXXXXXXXSXSSSS2S2S2222a2a2ZaZZZZ8a
+8aZZaZaZaa2a222222SSSSXSXXXSXXXX7X7X7X77r777rrrr;;;;;;i;i;iiiiiiii:i::,::i:iiiiii;i;i;;r;r;r;rr7r777777X7X7XXXXXXSXSXSSSXSSSS2222a2aaaaZZZZa
+8aZZZaZaa2a22S2S2SSSSXSXXXXXXXX7777r7r7rrr7;r;r;;;;i;iiiiii:i:i:i::::,,:,,::i:i:iii:ii;i;;;;r;r;rrrr7r7777X7XXXXXXXXSXSXSSSSSS2222a2aaZaZZZa
+8aZZZZaaaa22S2S2SSXSXSXXXXXXXX7777r7rrrrrr;r;;;;;;iiiiiiiiii::::::,:,,,:,,,::::i:iiiiii;i;i;i;;;;r;rr7rrr7777X7XXXXXXXXSXSSSS2S222222a2aaZZa
+Z2ZZZaa2222S2SSSSSSXXXXXXXX7X7Xr7r7r7rrrr;;;;;;i;iiii:i::::::,:::,,,,.,.,,,,:,::::i:i:iiiiii;i;;;;r;r;rrrr7777X7X7XXXXSXXXSSSSSS2S2222aaZaZ2
+Z2ZZaa2a22S2SSXSXXXXXXXXXX7777r7rrrr;r;r;;;;i;iiii:i::::,:,:,,,,,,.,...,.,.,.:::,:::,::i:i:iiiiii;;;;r;rrrr7r77X7XXXXXXSXXXSXSX2S2222a2aaaaa
+Z2Zaa2a2222XSXSXXXXXX7X7X7X77r7rrrr;r;;;;;;i;iiii::::::,:,,,,,,,,.,.......,,:,,,:,:,:,::i:iiiiii;i;;;;;;r;7r7r7r77XXXXXXXXXXXXSS2S2S22a2aaZ2
+Z2aZ2a2222SSXSXXXXXX7X7777r7r7rr;r;;;;;;iiiiii:i::,:,:,,,:.,.,.,.... ... ......,,,,,,,,:,:::ii:iiii;i;;;;r;r;rr7r777777XXXXXXSXSXSS2222a2Zaa
+ZSZaa2222S2SSXXXXXX7X7Xr7r7rrrr;r;;i;iiiiii:i:::i::,,,,,,.... .             . ..,...,,,.,,::::::iiii;i;;;;r;rrrrr77r7rX7XXXXXXXXSXSSS2a2aaZ2
+Z2aa2a22S2SSXXXXXXXX7X7777rrrr;r;;;;iiiiii:i:::i,:::,:,,.,..                     ..,.,,:,,,::::iiiiii;;;;;;;r7rrr7r7777X7X7XXXXXXSS2S22a2Za2
+ZSZaa2aS2SSXSXXXX7X777777r7rr;r;;;;i;iiii:i:i::,:,,,,.,.. .                       ..,.,,,.,,:,::i:iiiiii;i;irrrrrr7r7777X7XXXXXXSSSS2S22aaZ2
+Z2Za2222SSSSXXXX7X7777r7r7rr;r;r;;i;iiii:i:i::::,:.,.,..                           ...,,,,.,,::::i:iiiiii;i;;r;r;rr7r7r77XXXXXXSXSS2S2222aa2
+Z2Z2a22S2SSXSXXXX7X7777rrrrr;;;;;i;iiii:i:i::,:,,,,.....                            ..,.,,:,:,:,::iiiiii;i;;;;;;rr7r7r77X7X7X7XXSX2SSS2222Z2
+Z2aa222222SSXXXXXX7777rrrrrr;;;;;;iiii:i::::::,,,,......                             ....,,,,:,:,::i:ii;i;i;i;;r;rr7r7777XXX7XXSSSS2S2222aa2
+aSa22SSXSXX7X7777rrr7rr;;;;i;i;iiiiii:i::,:::,,.,.,....                             ....,.,.,,:,:::,:,i:i:iiii;;;ir;r;rrrr7r77XXXXXXSSSS2SaX
+aS22SSXXXX777X77;rrrrr;r;;iii;iiii:i::::,:,:,:,,.,......                             ..,...,,,,,,:,,,:,::::iiiiii;i;;;;rrr;r;7777X7XXXXSSSSS
+Z2a2a22S2SSXSXXXX7X77rrrr;r;;;;i;i;iiii:i::::,,,:,..,...                            ....,.,,:,:,::::iiiiiiii;;;;rrrrrr77X7X7XXXXXXSS2S22a2Z2
+Z2aa2a2SSSSXXXXXX7r777rr;r;;;;;;i;iiii:::i:::::,,:.,.,.,                             ..,.,,:,:,::::i:iiiiii;i;;r;r;rr7r7777X7XXXXSXSS2S22aa2
+ZSZ2222SSSSXXXX7X77r7rr;r;r;r;;iiiiii:iii::,:::,,.,.,.,..                           ..,.,.:,,,:,::i::iiiii;i;;;;r;rrrr7r7r77XXXXXSSXSS2222a2
+a2aZ22S2SSXSXXXXXX77r7r7rr;r;r;;i;i;iiii:i::::,:::,:,,.,.. .                     . ....,.,,:,,,::i:iiii;i;i;i;;;;r;rrrr7777X7XXXXXXSSSS22aa2
+Z2Zaa22S2SSSSXXXX7X77r7r7rrr;;r;;i;;iiiii:i:i::,:,:,,.:.,.,..                   ..,.,.,..,::::::i:iiii;;;;;;;;r;r;7r7r7r77XXXXXXXXSS22a22aZ2
+Z2aZZa2aS2SSXSXXXX7X7777rrrr;r;r;;i;i;iiiiii:i::,:::,,,,.,.,.,..             ..,.,,,,,::,:::,::iii:ii;;;;;;r;r;rrrr7r7rX7XXXXXXXXSS2222a2aaa
+Z2Zaa2a2222SSXSXXXX7X77r7r7;r;;;;i;;;i;i;iiii::::::,:::,:,,,:,,,:.,.,.,.,.:,,,,.:,,,:,:,::::::::i:ii;i;i;;;;rrrr7r777777X7XXXXSXSS2S22a2aaZ2
+8aZZaZ2a2aS2SSXSXXXX7X7777rrrr;;;;;;;;;;i;iiii:i:i::::::::,:,:,:,:::,,,:,:,:,:.:,:,:,:::,::iiiiiiii;i;;;;r;rr7r7r777r77X7XXXXSXSS2S2222ZaZZZ
+8aZZZaa2a2a22SSSSXXXX7X7X7777rrrr;r;;;;i;i;i;iiii:i:i:i::::,:,:,:,:,:,:,,,:,:,:,:,::::::i:iiiiiiii;i;;r;rrr;rr7r7r77X7XXXXXXSXSS2S22a2aaZaZa
+8aZZZZaa2a22S2SSXSXXXXXX7X77r7rrr7rr;;;;;;i;;;iiiiiiii:i:i:i,:,:,:,:::::,:,:::,::::i:i:i:ii;i;i;i;;;;r;r;rrrr7r7777X7XXXXXXSXSS2S22aaaaZaZZZ
+0a8ZZaZaa2a22S2S2SSXXXXXX7777rXr777rr;r;r;r;;;;i;i;iiiiiiiiii:::i:::::::::::::::i:i:iiiiii;;;;;i;;r;r;rrrr7r7777X7X7X7XXXXSXSS2222aaaaZZZZ8a
+8ZZZZZZZaZ2a22S2SSSSXXXXXX7X77r7r7r7rrrr;r;;;;;;;;i;i;iiiiii:i:iii:i:i:i:i:i:iii:iiiiii;i;i;;;;;;r;r;rr7r7r7r77X7XXXXXXSXSXSS2S22a2ZaZZZZ8ZZ
+0Z8Z8ZZZZaZaa2a22S2SSXXXXXX7X7X777777r7rrrr;r;r;;;;i;i;i;i;iiiiiiiiiiiiiiiiiiiiiiiii;i;;;i;;;;r;r;rr7r7r7rX777XXXXXXSXXSSSSS2222aaaaZaZZZZ8Z
+0Z8888ZZaZZZaa2a22S2SSSSXXXXXX7X777777r7rrr7rr;r;r;;;;;;;;i;i;i;i;iii;i;iii;iii;iii;i;;;;;;;rr;rrrr7r7777X7XXXXXXXXSXSSSS2S22a2aaZaZaZZZZ8ZZ
+BZ88888ZZZZaZaZ2a2222SSXSXSXXXXXXXX7X7777r7r7r7rrrr;;;r;;;;i;i;i;;;i;i;i;i;i;i;;;i;;;;;;r;rrrr7r7r7777X7X7XXXXXXXXXXSXSS222S22aaZaZZ8Z8Z880Z
+080088Z8ZZZZaZ2a22222SSSSSXSXXXXXX7X77777rr7r7r7r7rr;rrr;;i;;;;;;;;;;;;;;;;;i;;r;;;;;r;r;rrrr7r7r7r7r777777XXXXXXXXXSSS2S2222aaaaZZZZ8Z88008
+8aZZZaa2a2222SSXXXX7X77rrrr;;;;;;i;iiii:i:::i,:::,:,,,:,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,:,,,:::::,::i:i:i:iiii;i;;r;r;7r7777XXXXSSSSS222aaZaZa
+MMMMMMMMMMMMMMMMMMMMMMMM@MMM@M@M@@@@@@@@@M@@W@WWWWW@WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW@W@W@W@W@@@@@@@@@@M@M@M@M@MMMMMMMMMMMMMMMMMMM

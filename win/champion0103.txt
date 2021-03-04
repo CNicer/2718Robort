@@ -1,0 +1,46 @@
+. . . . . . . . . . . . . .             .i                                                         ;.     ... ... . . . . . . . . . . . . . 
+                                      . :                                                          ,: .                                     
+. . .   .           . .   .         7i7i;:.                                                       .:;ir;r   . ...   .   . .     . . .   .   
+             . .           .     . .7;.:;;,                                                       i;i,.rr .. . .     .     .   .     . . .  
+. .   .         .                :7.r:.i;i,                                                       :;;i.i;,7.  ...                         . 
+       .   .   .                 ,7i ,i;;,                                                         :;;:, ;7.   .                 . .     .  
+.     .             .   .      ii ;;.:;;i                                                           ir;,.ri r,  .                         . 
+   .                           ;X: .,ir;                                                             r;i.. ;X: .       .     .     .        
+.         .         .           rr  :;;.                                                             .r;: .7;   .     .                   . 
+     .                        r; ; ir7,                      ,:;;r;;;;iiii::,,...                     :rr:.i X;          .     .         .  
+.     .   . . .           .   ra;  ,rX.                ,. ,:;7XXSXX77r;;;i;iiii:i:iS7.                ,Xr.  Xa: .           .   .     .     
+     .           .             XS. SXi               ,2X  .,:r7Xr7rr;;iiii:i::.,. .aWZ,                ;XX iS;                 .     .      
+. .                     .   :.  i,i;iX;         .    iar  ,,i;777r7r;;;iiii::., .  7aX:   ...         X7ir:::  ::             .           . 
+               .     .   .  ,Xr.   :XS.      :7Xrr;i iSr  .::;77r7rr;;i;ii::,,..   ;X7. ,;;r7X;       ,S7.   :r7.                           
+.   .   .                    iS2: .77,      rX:    ,:iSr. .,i;777r7;r;;iiii:,..    ,7;..i    .7X.      i7r. ;SX,            .             . 
+           .                  ,X2 :i,;,    iX,    ,,:rX7  .,:;7X77rr;r;;ii::,.     .r;.i.:.    7r     ii.i.,2r.          .     . .          
+.         .     .               .   i;,    7r   . iriiS7: ..:i777r7rr;;iiii,:..    :7i .r;. .  ,X.    :i:  ..     .     .               . . 
+   . .   .   .       .   .   .::   .:,     X;  . .   .XS:  ,,irX77r7;r;;iiii,,..   77i     .   ,X:     ::.  .:,. . .     .         .        
+.     .         .         .   ,i7i  . ..   7X   . .   XXr  .,,r7Xr7rr;r;;iii:,,.. i2Xi  . ...  iS.   .  . .ir:.   .                       . 
+                                .;,   ..   :Si   ...  iSX: ..:i777rrrr;;;;ii:::, .XZX: . . .  .X7    ..  .:i           . .                  
+. .                     . . .i:.     .,     rX:   . . .XSi  ,,ir7r7rrrr;;i;ii::,.i0Z7   . .   i7.     ,.     .i:      .             . .   . 
+   .         .       .       .::.  .,i, :.   ;Xi   .   ;SX. .,:r7777rr;r;;iiii:,.a0S,  . .   :i.   ., :i.. ..:,                             
+. .                   .            .i, :i,    :X7,      XS; ..:;X77r7rr;r;;ii::.r0Z;       .::     ,i, ::         . .             .       . 
+                               i7;:    r;.:r    iXr:    .SSi ..irX77r7rr;;;;ii,i88r     .;;;.    r.,r; . .:rr:           .                  
+.                               :rri,,,r;.rr.:    irri,  .SX: .,;7X77rrrr;rii::a0X   .:;7i,   .,,rr.;;,.,ir;,                         .   . 
+   .       .     .         .       .  ,; ir;:7:      :ii: ,XXi..,r77r7rr;r;;iiSB7  :ii:,      ;7:rr, ;. ..         .     . .                
+.         .             .       .i7r;,.,,:X.;r; X: ;.    ,,;SS;.,iX77r7rrrr;;2BX:,i.    :i ;r 7ri,X,:,.:;r7i            .           .     . 
+               .     .            ,;;r;::;: ;7i:7r.77. r,    ;Xr,:;X77rrr7rra0;     :7 :7r.77:;7i i;,i;rii.                  .           .  
+  .               .                 ..,,  , iX.i7;ir7;,r7;    iX7:ir7r7r7r7Z8;    .r7r,rrrirX,:X,.. .,,,.                 .       . . .   . 
+           .                       .rX7Xrri;:; :X;.7r7,r;7;,ii, :7ir77r7rXZS  i;,.7rr;:7r7 7X. ;:;i77XXXi.                 .       .   . .  
+.               .       . .           ..,:,   . X  777,i7;7i     .;rX7777X,      r7r7,i7X; :7 .  .:,..                        .     .       
+     .                                 :r7r77;;i.. ,XS..X7r7   .   i7X77;       .Xr77 ,2X  ..i;77X7Xr:             . .     .   .       . .  
+  .       . .   . . .                  .::i::,.     :X  iXXX, . .   ;XXr.       iXXX. .X.     ..::::,                 .           .         
+                         .                  .:i;;;ii     ,72,  . .  .SX;        ;2r     .;;r;;i:.                                        .  
+.           . .   .     .                i222XX77;i.      :7:       ,SX,        ;r. .    .i;7XXX22S:                                        
+                   .                     ,,:::.  ,:irXXXX27 .iii:,  ;2;,   ,,ii: .X2SSXXri,.  .::,,,                               .   .    
+            .   .                              :r777XXXX7:     .:,,iZ2;,. :::      :XXXXX7X77:                                  .       .   
+             .     .                          ;r;;;;ii,    ,XXXr.iXZ27i,.   r@Z07     ,ii;;;;ri                            . .           .  
+.     . . .   .       . .                                 :rr;rr7a8SX;i::irX8aXXZX                                  .                     . 
+                       .   .                             2Z2SaaZ800BBWW@W@@@BB888WM,                                 .     . .              
+.                       . .                              W@BBBB8Z28BWBWW@@@W@WMMMMMi                                            .       .   
+   .           .   .                                     00800:.         .    SMWMM:                             .                       .  
+. .                   .                                  0B8B8:,        .     XM@@Mi                                .   .                 . 
+     . .     .     .                                     BWBBW2X;ii;;77XXX7Xr;BMMMM;                                         .   . .   . .  
+. . . .   . .     .     . .                             iSXXXXaa800000080000B0Z2228a                                  .       . . . .     . 
+                                                        Ba222aaZZZZ8Z8888000000000BM2                                                       
